@@ -1,4 +1,3 @@
-![Texto alternativo](https://github.com/ElyJF/ElyJF/blob/60c58cbde1d1f38b34e7abc686cfd97013b9d5b1/amir-seilsepour-pItSSy1-7R8-unsplash.jpg)
 
 👋 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/21028582d965fd70f7ea662864e290f8.png" alt="fuentes-pixeladas" border="0"></a>
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/4a96ee3a49effba4ad445b802c6b530d.png" alt="fuentes-pixeladas" border="0"></a>
