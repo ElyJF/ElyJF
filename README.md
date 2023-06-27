@@ -7,4 +7,4 @@
  ｔｒｅｎｄｓ  ｉｎ  ｗｅｂ  ｄｅｖｅｌｏｐｍｅｎｔ．  Ｉ  ｗｏｕｌｄ  ｌｏｖｅ  ｔｏ  ｃｏｌｌａｂｏｒａｔｅ  ｏｎ  ｉｎｎｏｖａｔｉｖｅ  ｐｒｏｊｅｃｔｓ  ａｎｄ 
 ｃｒｅａｔｅ ａｍａｚｉｎｇ ｄｉｇｉｔａｌ ｅｘｐｅｒｉｅｎｃｅｓ！ Ｙｏｕ ｃａｎ ｃｏｎｎｅｃｔ ｗｉｔｈ ｍｅ ａｔ
  ｈｔｔｐｓ：／／ｗｗｗ．ｌｉｎｋｅｄｉｎ．ｃｏｍ／ｉｎ／ｅｌｉｚａｂｅｔ－ｓａｎｔａｎａ－４５２９３６２５２／．
-https://fontmeme.com/permalink/230627/oversize.png
+<a href="https://fontmeme.com/es/fuente-de-minecraft/"><img src="https://fontmeme.com/permalink/230627/oversize.png" alt="fuente-de-minecraft" border="0"></a>
