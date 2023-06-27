@@ -1,4 +1,7 @@
-👋 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/3c7555d25f5797cbca041dfc40b5f98b.png" alt="fuentes-pixeladas" border="0"></a>
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/ee3191b350bde3d4838523a32d5dec39.png" alt="fuentes-pixeladas" border="0"></a>
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/593e5d3fef51af3d8722bca4ab37fb58.png" alt="fuentes-pixeladas" border="0"></a>
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/2bc73307c4fd45602e6a4f685437b7f4.png" alt="fuentes-pixeladas" border="0"></a>
+👋 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/21028582d965fd70f7ea662864e290f8.png" alt="fuentes-pixeladas" border="0"></a>
+<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/4a96ee3a49effba4ad445b802c6b530d.png" alt="fuentes-pixeladas" border="0"></a>
+<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/785e836b26344253cd583c9cfdd7e1b4.png" alt="fuentes-pixeladas" border="0"></a>
+<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/ecf71f5168c2cde92562784dcfebdae0.png" alt="fuentes-pixeladas" border="0"></a>
+<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/5f0de220689532ba262415091f4713cd.png" alt="fuentes-pixeladas" border="0"></a>
+<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/41ed949727b3ad4bae9c53212db9cf88.png" alt="fuentes-pixeladas" border="0"></a>
+<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/d3a9e39332328eac802709261dd9595e.png" alt="fuentes-pixeladas" border="0"></a> https://www.linkedin.com/in/elizabet-santana-452936252/.
