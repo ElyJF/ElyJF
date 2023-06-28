@@ -1,5 +1,3 @@
-<div style="background-image: url('https://github.com/ElyJF/ElyJF/blob/main/F100036495.jpg'); background-size: cover; background-position: center; padding: 20px;">
-    <!-- Contenido de tu README -->
 
 
 <div align="center">
@@ -47,9 +45,11 @@
       <td align="center">
         <img src="https://github.com/ElyJF/ElyJF/blob/main/visualstudio_code_button_icon_151868%20(2).png" alt="Texto alternativo">
       </td>
+        <td align="center">
+        <img src="" alt="Texto alternativo">
+      </td>
     </tr>
   </table>
-</div>
 </div>
 
 
