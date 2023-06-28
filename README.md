@@ -1,6 +1,6 @@
-![Texto alternativo](https://github.com/ElyJF/ElyJF/blob/main/cooltext438407477964164.png)
-
-👋 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/21028582d965fd70f7ea662864e290f8.png" alt="fuentes-pixeladas" border="0"></a>
+<div align="center"> 
+  <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).gif>
+    </div>    <a href="https://fontmeme.com/es/fuentes-pixeladas/"> <img src="https://fontmeme.com/permalink/230627/21028582d965fd70f7ea662864e290f8.png" alt="fuentes-pixeladas" border="0"></a>
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/4a96ee3a49effba4ad445b802c6b530d.png" alt="fuentes-pixeladas" border="0"></a>
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/785e836b26344253cd583c9cfdd7e1b4.png" alt="fuentes-pixeladas" border="0"></a>
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/ecf71f5168c2cde92562784dcfebdae0.png" alt="fuentes-pixeladas" border="0"></a>
