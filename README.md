@@ -46,7 +46,7 @@
         <img src="https://github.com/ElyJF/ElyJF/blob/main/visualstudio_code_button_icon_151868%20(2).png" alt="Texto alternativo">
       </td>
         <td align="center">
-        <img src="" alt="Texto alternativo">
+        <img src="https://github.com/ElyJF/ElyJF/blob/main/js_button_icon_151927.png" alt="Texto alternativo">
       </td>
     </tr>
   </table>
