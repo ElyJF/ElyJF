@@ -12,7 +12,7 @@
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/d3a9e39332328eac802709261dd9595e.png" alt="fuentes-pixeladas" border="0"></a> ![Texto alternativo](https://github.com/ElyJF/ElyJF/blob/main/linkedin_button_icon_151847.png) https://www.linkedin.com/in/elizabet-santana-452936252/.
 
 <div align="center">
-<img src="https://github.com/ElyJF/ElyJF/blob/main/Skills-28-6-2023.gif"/>
+<img src="https://github.com/ElyJF/ElyJF/blob/main/Skills-28-6-2023.gif" width="300px" height="200px" autoplay loop/>
 </div>
 
 
