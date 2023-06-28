@@ -11,16 +11,10 @@
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/41ed949727b3ad4bae9c53212db9cf88.png" alt="fuentes-pixeladas" border="0"></a>
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/d3a9e39332328eac802709261dd9595e.png" alt="fuentes-pixeladas" border="0"></a> ![Texto alternativo](https://github.com/ElyJF/ElyJF/blob/main/linkedin_button_icon_151847.png) https://www.linkedin.com/in/elizabet-santana-452936252/.
 
-<!-- Efecto de texto animado -->
-<span style="font-size: 40px; animation: neon 1.5s ease-in-out infinite alternate;">¡Programación en acción!</span>
-@keyframes neon {
-  from {
-    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 20px #FFF, 0 0 30px #FF00DE, 0 0 40px #FF00DE, 0 0 50px #FF00DE, 0 0 60px #FF00DE;
-  }
-  to {
-    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 20px #FFF, 0 0 30px #00FFD1, 0 0 40px #00FFD1, 0 0 50px #00FFD1, 0 0 60px #00FFD1;
-  }
-}
+<!-- Efecto de texto con rotación en 3D -->
+<div style="transform: perspective(1000px) rotateX(25deg) rotateY(-15deg);">
+  <h2 style="font-size: 40px;">Skills</h2>
+</div>
 
 
 
