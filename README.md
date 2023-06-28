@@ -1,4 +1,6 @@
 <div style="background-image: url('https://github.com/ElyJF/ElyJF/blob/main/F100036495.jpg'); background-size: cover; background-position: center; padding: 20px;">
+    <!-- Contenido de tu README -->
+
 
 <div align="center">
   <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" autoplay loop />
@@ -48,7 +50,7 @@
     </tr>
   </table>
 </div>
-
+</div>
 
 
 
