@@ -1,3 +1,5 @@
+<div style="background-image: url('ruta/a/la/imagen-de-fondo.jpg'); background-size: cover; background-position: center; padding: 20px;">
+
 <div align="center">
   <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" autoplay loop />
 </div>
