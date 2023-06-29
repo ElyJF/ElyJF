@@ -5,13 +5,13 @@
 </div>
 
 
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/67b55741b0870831b4cadb69e8f7241d.png" alt="fuente-de-stranger-things" width="300" height="150" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/0ee313282c7cd9704253d6803fd97285.png" alt="fuente-de-stranger-things" width="300" height="150" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/289364744597e493569293e78a3c82b3.png" alt="fuente-de-stranger-things" width="300" height="150" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/4bf5d222ef71fbdf8b35e6af4561d389.png" alt="fuente-de-stranger-things" width="300" height="150" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/e9b3cf5430e5a86ad7b2656e6b3e20bc.png" alt="fuente-de-stranger-things" width="300" height="150" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/2871c9ebb1517a37f2ebd948ac09d236.png" alt="fuente-de-stranger-things" width="300" height="150" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/f0c70feb99c3351ee64715c4a47e255b.png" alt="fuente-de-stranger-things" width="300" height="150" border="0"></a>
+<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/67b55741b0870831b4cadb69e8f7241d.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>
+<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/0ee313282c7cd9704253d6803fd97285.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>
+<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/289364744597e493569293e78a3c82b3.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>
+<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/4bf5d222ef71fbdf8b35e6af4561d389.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>
+<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/e9b3cf5430e5a86ad7b2656e6b3e20bc.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>
+<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/2871c9ebb1517a37f2ebd948ac09d236.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>
+<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/f0c70feb99c3351ee64715c4a47e255b.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>
 
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"> <img src="https://fontmeme.com/permalink/230627/21028582d965fd70f7ea662864e290f8.png" alt="fuentes-pixeladas" border="0"></a>
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/4a96ee3a49effba4ad445b802c6b530d.png" alt="fuentes-pixeladas" border="0"></a>
