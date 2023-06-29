@@ -49,7 +49,7 @@
         <img src="https://github.com/ElyJF/ElyJF/blob/main/javascript_icon_130900.png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/npm_button_icon_151891.png" alt="Texto alternativo" width="100%">
+        <img src="https://github.com/ElyJF/ElyJF/blob/main/mysqlworkbench_93532.png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/visualstudio_code_button_icon_151868%20(2).png" alt="Texto alternativo" width="100%">
