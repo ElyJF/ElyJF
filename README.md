@@ -18,35 +18,36 @@
 </div>
 
 
+
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/angular_button_icon_151960%20(1).png" alt="Texto alternativo" width="100%">
+        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/angular_button_icon_151960%20(1).png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/bootstrap_button_icon_151958%20(1).png" alt="Texto alternativo" width="100%">
+        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/bootstrap_button_icon_151958%20(1).png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/css_button_icon_151935.png" alt="Texto alternativo" width="100%">
+        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/css_button_icon_151935.png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/html_button_icon_151929%20(1).png" alt="Texto alternativo" width="100%">
+        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/html_button_icon_151929%20(1).png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/docker_button_icon_151885.png" alt="Texto alternativo" width="100%">
+        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/docker_button_icon_151885.png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/nodejs_button_icon_151951.png" alt="Texto alternativo" width="100%">
+        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/nodejs_button_icon_151951.png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/npm_button_icon_151891.png" alt="Texto alternativo" width="100%">
+        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/npm_button_icon_151891.png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/visualstudio_code_button_icon_151868%20(2).png" alt="Texto alternativo" width="100%">
+        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/visualstudio_code_button_icon_151868%20(2).png" alt="Texto alternativo" width="100%">
       </td>
         <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/js_button_icon_151927.png" alt="Texto alternativo" width="100%">
+        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/js_button_icon_151927.png" alt="Texto alternativo" width="100%">
       </td>
     </tr>
   </table>
