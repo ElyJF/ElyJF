@@ -4,7 +4,7 @@
   <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" autoplay loop />
 </div>
 
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/c81107f39f31fddda3f15ffee2e7ebfe.png" alt="fuente-de-stranger-things" border="0"></a>
+<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/04fff3ddb1075ef76a59218b984d3c3d.png" alt="fuente-de-stranger-things" border="0"></a>
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"> <img src="https://fontmeme.com/permalink/230627/21028582d965fd70f7ea662864e290f8.png" alt="fuentes-pixeladas" border="0"></a>
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/4a96ee3a49effba4ad445b802c6b530d.png" alt="fuentes-pixeladas" border="0"></a>
 <a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/785e836b26344253cd583c9cfdd7e1b4.png" alt="fuentes-pixeladas" border="0"></a>
