@@ -61,7 +61,7 @@
         <img src="https://github.com/ElyJF/ElyJF/blob/main/npm_icon_146141.png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/nodejs_original_wordmark_logo_icon_146412.png" alt="Texto alternativo" width="100%">
+        <img src="https://github.com/ElyJF/ElyJF/blob/main/visualstudio_code_logo_icon_170247.png" alt="Texto alternativo" width="100%">
       </td>
     </tr>
   </table>
