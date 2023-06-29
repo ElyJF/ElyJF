@@ -34,7 +34,7 @@
         <img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/bootstrap_button_icon_151958%20(1).png" alt="Texto alternativo" width="100%">
+        <img src="https://github.com/ElyJF/ElyJF/blob/main/bootstrap_button_icon_151958%20(1).png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/css_button_icon_151935.png" alt="Texto alternativo" width="100%">
