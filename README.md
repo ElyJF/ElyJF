@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://github.com/ElyJF/ElyJF/blob/main/Hello-I-m-Elizabeth-a-passio-29-6-2023.png" />
-</div>
 
 
 <div align="center">
