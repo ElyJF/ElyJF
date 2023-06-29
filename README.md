@@ -63,6 +63,12 @@
       <td align="center">
         <img src="https://github.com/ElyJF/ElyJF/blob/main/visualstudio_code_logo_icon_170247.png" alt="Texto alternativo" width="100%">
       </td>
+      <td align="center">
+        <img src="" alt="Texto alternativo" width="100%">
+      </td>
+      <td align="center">
+        <img src="" alt="Texto alternativo" width="100%">
+      </td>
     </tr>
   </table>
 </div>
