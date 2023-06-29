@@ -16,7 +16,7 @@
 <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/bfc5d9903d0f90dd6708db2de03a53d4.png" alt="fuente-de-stranger-things" border="0"></a>
 <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/3bd750da7e3bbb7aaff893e818b9479d.png" alt="fuente-de-stranger-things" border="0"></a>
 <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/75f2e2361e63e9d45c6910591000cbfa.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/6ea13bf42c9af9a711c5aa596cdb850b.png" alt="fuente-de-stranger-things" border="0"></a> https://www.linkedin.com/in/elizabet-santana-452936252/.
+<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/57de89ca3a0ee0a8ad22af92ae630634.png" alt="fuente-de-stranger-things" border="0"></a> https://www.linkedin.com/in/elizabet-santana-452936252/.
 
 
 
