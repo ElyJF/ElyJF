@@ -11,15 +11,7 @@
 <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/4bf5d222ef71fbdf8b35e6af4561d389.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>
 <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/e9b3cf5430e5a86ad7b2656e6b3e20bc.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>
 <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/2871c9ebb1517a37f2ebd948ac09d236.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/f0c70feb99c3351ee64715c4a47e255b.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>
-
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"> <img src="https://fontmeme.com/permalink/230627/21028582d965fd70f7ea662864e290f8.png" alt="fuentes-pixeladas" border="0"></a>
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/4a96ee3a49effba4ad445b802c6b530d.png" alt="fuentes-pixeladas" border="0"></a>
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/785e836b26344253cd583c9cfdd7e1b4.png" alt="fuentes-pixeladas" border="0"></a>
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/ecf71f5168c2cde92562784dcfebdae0.png" alt="fuentes-pixeladas" border="0"></a>
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/5f0de220689532ba262415091f4713cd.png" alt="fuentes-pixeladas" border="0"></a>
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/41ed949727b3ad4bae9c53212db9cf88.png" alt="fuentes-pixeladas" border="0"></a>
-<a href="https://fontmeme.com/es/fuentes-pixeladas/"><img src="https://fontmeme.com/permalink/230627/d3a9e39332328eac802709261dd9595e.png" alt="fuentes-pixeladas" border="0"></a> ![Texto alternativo](https://github.com/ElyJF/ElyJF/blob/main/linkedin_button_icon_151847.png) https://www.linkedin.com/in/elizabet-santana-452936252/.
+<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/f0c70feb99c3351ee64715c4a47e255b.png" alt="fuente-de-stranger-things" width="100%" height="80" border="0"></a>https://www.linkedin.com/in/elizabet-santana-452936252/.
 
 <div align="center">
 <img src="https://github.com/ElyJF/ElyJF/blob/main/Skills-28-6-2023.gif" width="300px" height="40px" autoplay loop/>
