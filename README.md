@@ -37,7 +37,7 @@
         <img src="https://github.com/ElyJF/ElyJF/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/css_button_icon_151935.png" alt="Texto alternativo" width="100%">
+        <img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_git_icon_130581.png" alt="Texto alternativo" width="100%">
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/html_button_icon_151929%20(1).png" alt="Texto alternativo" width="100%">
