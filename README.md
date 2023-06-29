@@ -55,7 +55,13 @@
         <img src="https://github.com/ElyJF/ElyJF/blob/main/netbeans_22517.png" alt="Texto alternativo" width="100%">
       </td>
         <td align="center">
-        <img src="https://raw.githubusercontent.com/ElyJF/ElyJF/main/js_button_icon_151927.png" alt="Texto alternativo" width="100%">
+        <img src="https://github.com/ElyJF/ElyJF/blob/main/nodejs_original_wordmark_logo_icon_146412.png" alt="Texto alternativo" width="100%">
+      </td>
+      <td align="center">
+        <img src="https://github.com/ElyJF/ElyJF/blob/main/nodejs_original_wordmark_logo_icon_146412.png" alt="Texto alternativo" width="100%">
+      </td>
+      <td align="center">
+        <img src="https://github.com/ElyJF/ElyJF/blob/main/nodejs_original_wordmark_logo_icon_146412.png" alt="Texto alternativo" width="100%">
       </td>
     </tr>
   </table>
