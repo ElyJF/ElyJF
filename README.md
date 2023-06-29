@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="" />
+  <img src="https://github.com/ElyJF/ElyJF/blob/main/github_logo_icon_188438.png"/>
 </div>
 <div align="center">
   <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" autoplay loop />
