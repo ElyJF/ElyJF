@@ -1,8 +1,13 @@
-<div align="left">
-  <img src="https://github.com/ElyJF/ElyJF/blob/main/github_logo_icon_188438.png"/>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="https://github.com/ElyJF/ElyJF/blob/main/github_logo_icon_188438.png" alt="Imagen" />
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <a href="https://fontmeme.com/es/fuente-de-stranger-things/">
+      <img src="https://fontmeme.com/permalink/230630/5b46a9b040e9dd06947c6f23ffbbc6bb.png" alt="fuente-de-stranger-things" border="0" />
+    </a>
+  </div>
 </div>
-<div align="center">
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/5b46a9b040e9dd06947c6f23ffbbc6bb.png" alt="fuente-de-stranger-things" border="0"></a></div>
 
 <div>
   <img src="https://github.com/ElyJF/ElyJF/blob/main/I-m-a-curious-and-code-liciou-30-6-2023%20(2).png" alt="Imagen" align="left" width="400" />
