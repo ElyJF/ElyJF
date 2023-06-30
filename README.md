@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/ElyJF/ElyJF/blob/main/github_logo_icon_188438.png" alt="Imagen" align="left"/><p>   </p>
+  <img src="https://github.com/ElyJF/ElyJF/blob/main/github_logo_icon_188438.png" alt="Imagen" align="left"/><p>       </p>
   <img src="https://fontmeme.com/permalink/230630/5b46a9b040e9dd06947c6f23ffbbc6bb.png" alt="fuente-de-stranger-things" align="center" border="0"/>
   </div>
     
