@@ -3,27 +3,14 @@
 </div>
 <div align="center">
 <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/5b46a9b040e9dd06947c6f23ffbbc6bb.png" alt="fuente-de-stranger-things" border="0"></a></div>
-<div align="left">
-  <img src="https://github.com/ElyJF/ElyJF/blob/main/I-m-a-curious-and-code-liciou-30-6-2023%20(2).png"/>
-</div>
+<p align="left">
+  <img src="https://github.com/ElyJF/ElyJF/blob/main/I-m-a-curious-and-code-liciou-30-6-2023%20(2).png" alt="Imagen" />
+</p>
 
-<div align="rigth">
+<p align="right">
   <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" autoplay loop />
-</div>
+</p>
 
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/08499ae8fdcbe6c73d049b33c64fd121.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/78a4578a6b6878e16cfd6d9a7f0f61c9.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/54f85c74fe423f597b10fa1b253b79bf.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/8391cbcf888efbde7b85efaeefbf663b.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/97a4b52af6f3c66d25d8d1763a2be2da.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/663484657e66ab405395aae3c67ebe75.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/0984be55ddccc7c1a3b9a6e8d2e5274b.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/38c0203e3ccb79b56263876af0881dbc.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/578dd0559e952e62fedb4189b33eafae.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/bfc5d9903d0f90dd6708db2de03a53d4.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/3bd750da7e3bbb7aaff893e818b9479d.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/75f2e2361e63e9d45c6910591000cbfa.png" alt="fuente-de-stranger-things" border="0"></a>
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230629/57de89ca3a0ee0a8ad22af92ae630634.png" alt="fuente-de-stranger-things" border="0"></a> https://www.linkedin.com/in/elizabet-santana-452936252/.
 
 <div align="center"><img src="https://github.com/ElyJF/ElyJF/blob/main/YIgV.gif"/>
 </div>
