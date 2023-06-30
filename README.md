@@ -28,6 +28,12 @@
 
 
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_git_icon_130581.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
 <div align="center">
   <table>
     <tr>
