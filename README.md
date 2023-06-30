@@ -9,8 +9,8 @@
   <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" align="right" width="300" />
 </div>
 <br>
-
-
+<br>
+<br>
 <div align="center"><img src="https://github.com/ElyJF/ElyJF/blob/main/YIgV.gif"/>
 </div>
 <br>
