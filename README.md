@@ -26,7 +26,7 @@
 <img src="https://github.com/ElyJF/ElyJF/blob/main/Skills-28-6-2023.gif" width="300px" height="40px" autoplay loop/>
 </div>
 
-
+<div align="center">
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png"/></code>
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_git_icon_130581.png"/></code>
@@ -40,6 +40,6 @@
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/npm_icon_146141.png"/></code>
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/visualstudio_code_logo_icon_170247.png"/></code>
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_html_icon_130541.png"/></code>
-
+</div>
 
 
