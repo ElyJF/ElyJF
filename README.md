@@ -4,10 +4,10 @@
 <div align="center">
 <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/5b46a9b040e9dd06947c6f23ffbbc6bb.png" alt="fuente-de-stranger-things" border="0"></a></div>
 <div align="left">
-  <img src=""/>
+  <img src="https://github.com/ElyJF/ElyJF/blob/main/I-m-a-curious-and-code-liciou-30-6-2023.png"/>
 </div>
 
-<div align="center">
+<div align="rigth">
   <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" autoplay loop />
 </div>
 
