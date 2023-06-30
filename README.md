@@ -30,56 +30,16 @@
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png"/></code>
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_git_icon_130581.png"/></code>
-<code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
-<code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
-<code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
-<code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png" alt="Texto alternativo" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Texto alternativo" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_git_icon_130581.png" alt="Texto alternativo" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_typescript_official_icon_130107.png" alt="Texto alternativo" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/java_15498.png" alt="Texto alternativo" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/javascript_icon_130900.png" alt="Texto alternativo" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/mysqlworkbench_93532.png" alt="Texto alternativo" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/netbeans_22517.png" alt="Texto alternativo" width="100%">
-      </td>
-        <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/nodejs_original_wordmark_logo_icon_146412.png" alt="Texto alternativo" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/npm_icon_146141.png" alt="Texto alternativo" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/visualstudio_code_logo_icon_170247.png" alt="Texto alternativo" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_css_icon_130661.png" alt="Texto alternativo" width="100%">
-      </td>
-      <td align="center">
-        <img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_html_icon_130541.png" alt="Texto alternativo" width="100%">
-      </td>
-    </tr>
-  </table>
-</div>
-
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_typescript_official_icon_130107.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/java_15498.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/javascript_icon_130900.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/mysqlworkbench_93532.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/netbeans_22517.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_css_icon_130661.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/nodejs_original_wordmark_logo_icon_146412.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/npm_icon_146141.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/visualstudio_code_logo_icon_170247.png"/></code>
+<code><img src="https://github.com/ElyJF/ElyJF/blob/main/file_type_html_icon_130541.png"/></code>
 
 
 
