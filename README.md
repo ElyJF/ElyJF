@@ -2,8 +2,7 @@
   <img src="https://github.com/ElyJF/ElyJF/blob/main/github_logo_icon_188438.png"/>
 </div>
 <div align="center">
-<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/410d2b84d1d0a3fd73f32ad6f9ecda16.png" alt="fuente-de-stranger-things" border="0"></a>
-</div>
+<a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/09fa1442722eaaa836aa4d71d0f8bde4.png" alt="fuente-de-stranger-things" border="0"></a></div>
 
 
 <div align="center">
