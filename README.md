@@ -3,13 +3,12 @@
 </div>
 <div align="center">
 <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/5b46a9b040e9dd06947c6f23ffbbc6bb.png" alt="fuente-de-stranger-things" border="0"></a></div>
-<p align="left">
-  <img src="https://github.com/ElyJF/ElyJF/blob/main/I-m-a-curious-and-code-liciou-30-6-2023%20(2).png" alt="Imagen" />
-</p>
 
-<p align="right">
-  <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" autoplay loop />
-</p>
+<div>
+  <img src="https://github.com/ElyJF/ElyJF/blob/main/I-m-a-curious-and-code-liciou-30-6-2023%20(2).png" alt="Imagen" align="left" width="300" />
+  <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" align="right" width="300" />
+</div>
+
 
 
 <div align="center"><img src="https://github.com/ElyJF/ElyJF/blob/main/YIgV.gif"/>
