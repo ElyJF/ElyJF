@@ -1,9 +1,7 @@
 <div align="left">
   <img src="https://github.com/ElyJF/ElyJF/blob/main/github_logo_icon_188438.png"/>
 </div>
-| Imágenes a la izquierda                                                                                                         | GIF a la derecha                                                                                                                                                                   |
-|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/2145a91ea59f3afc3598d79473e1cfff.png" alt="fuente-de-stranger-things" border="0"></a><br>   <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/75cf99f99ce3853f71270495c531e83e.png" alt="fuente-de-stranger-things" border="0"></a><br>   <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/d00746247235f823978f8bf6c625036b.png" alt="fuente-de-stranger-things" border="0"></a><br>   <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/7a5ff38635c1f7f7cfc8bf3be3c91429.png" alt="fuente-de-stranger-things" border="0"></a><br>   <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/c1fab4a8c40b5515eb9de34b591e9d3f.png" alt="fuente-de-stranger-things" border="0"></a><br>   <a href="https://fontmeme.com/es/fuente-de-stranger-things/"><img src="https://fontmeme.com/permalink/230630/e1b07ba6107addc70a5ffc55f730b12d.png" alt="fuente-de-stranger-things" border="0"></a> | <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" autoplay loop /> |
+
 
 
 
