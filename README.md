@@ -7,8 +7,8 @@
 
 
 <div>
-  <img src="https://github.com/ElyJF/ElyJF/blob/main/I-m-a-curious-and-code-liciou-30-6-2023%20(2).png" alt="Imagen" align="left" width="400" />
-  <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" align="right" width="400" />
+  <img src="https://github.com/ElyJF/ElyJF/blob/main/I-m-a-curious-and-code-liciou-30-6-2023%20(2).png" alt="Imagen" align="left" width="400"/>
+  <img src="https://github.com/ElyJF/ElyJF/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2)%20(2).gif" alt="Animación" align="right" width="400"/>
 </div>
 <br>
 <br>
