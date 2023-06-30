@@ -20,13 +20,17 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <div align="center"><img src="https://github.com/ElyJF/ElyJF/blob/main/YIgV.gif"/>
 </div>
+<br>
 <br>
 <div align="center">
 <img src="https://github.com/ElyJF/ElyJF/blob/main/Skills-28-6-2023.gif" width="300px" height="40px" autoplay loop/>
 </div>
-
+<br>
 <div align="center">
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/angular_logo_icon_169595.png"/></code>
 <code><img src="https://github.com/ElyJF/ElyJF/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png"/></code>
